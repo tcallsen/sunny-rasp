@@ -19,3 +19,7 @@ Once executed, the main.py script will append to a CSV file stored at the locati
 A Python shebang is included at the top of the main file, so simply adding a crontab entry similar to the one below should be all that is required:
 
     */4 * * * * /home/pi/Documents/dev/sunny-rasp/main.py
+
+**Misc**
+
+Here is a blog post I wrote about the project, and provides links to the sensor and connectors used: https://taylor.callsen.me/the-smart-shoe-a-raspberry-pi-sunlight-sensor/
